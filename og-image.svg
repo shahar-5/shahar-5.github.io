@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Shahar Shenar — Junior SOC Analyst</title>
+  <desc id="desc">Dark purple social preview for Shahar Shenar's cybersecurity portfolio.</desc>
+  <rect width="1200" height="630" fill="#0b0910"/>
+  <circle cx="1000" cy="170" r="310" fill="#9a5cff" opacity="0.13"/>
+  <circle cx="1000" cy="170" r="205" fill="none" stroke="#9a5cff" stroke-opacity="0.35" stroke-width="2"/>
+  <circle cx="1000" cy="170" r="105" fill="none" stroke="#f5f2f8" stroke-opacity="0.16" stroke-width="2"/>
+  <line x1="1000" y1="-40" x2="1000" y2="380" stroke="#f5f2f8" stroke-opacity="0.13"/>
+  <line x1="790" y1="170" x2="1210" y2="170" stroke="#f5f2f8" stroke-opacity="0.13"/>
+  <text x="78" y="108" fill="#9a5cff" font-family="monospace" font-size="22" letter-spacing="5">JUNIOR CYBERSECURITY PROFESSIONAL</text>
+  <text x="72" y="288" fill="#f5f2f8" font-family="Arial, sans-serif" font-size="102" font-weight="800" letter-spacing="-5">Shahar Shenar</text>
+  <text x="78" y="372" fill="#b9b2c2" font-family="Arial, sans-serif" font-size="42">Junior SOC Analyst</text>
+  <text x="78" y="478" fill="#f5f2f8" font-family="monospace" font-size="24">WAZUH SOC LAB · 500+ TRAINING HOURS · TRYHACKME</text>
+  <rect x="78" y="530" width="410" height="3" fill="#9a5cff"/>
+</svg>

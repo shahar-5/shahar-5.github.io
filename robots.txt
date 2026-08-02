@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+
+# This portfolio is intended to be shared by direct link.
+# Search indexing and automated crawling are not permitted.
